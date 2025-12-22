@@ -1,0 +1,48 @@
+LENS FOR PBIP - END USER LICENSE AGREEMENT
+
+Copyright (c) 2025 Lens For PBIP. All Rights Reserved.
+
+This software is provided as freeware. You may use this software free of charge
+for personal or commercial purposes.
+
+TERMS AND CONDITIONS
+
+1. LICENSE GRANT
+   You are granted a non-exclusive, non-transferable license to use this
+   software on any number of computers, provided that you are the only
+   individual using the software.
+
+2. RESTRICTIONS
+   You may NOT:
+   - Modify, reverse engineer, decompile, or disassemble this software
+   - Distribute, sublicense, rent, lease, or lend this software to others
+   - Remove or alter any proprietary notices, labels, or marks
+   - Use this software for any unlawful purpose
+
+3. OWNERSHIP
+   This software is proprietary and confidential. All intellectual property
+   rights in the software remain with the author. This license does not grant
+   you any rights to trademarks or service marks.
+
+4. NO WARRANTY
+   THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+   This license is effective until terminated. Your rights under this license
+   will terminate automatically without notice if you fail to comply with any
+   of its terms.
+
+7. GOVERNING LAW
+   This agreement shall be governed by and construed in accordance with
+   applicable laws.
+
+By using this software, you acknowledge that you have read this agreement,
+understand it, and agree to be bound by its terms and conditions.
