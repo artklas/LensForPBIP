@@ -5,7 +5,9 @@
 ![License](https://img.shields.io/badge/license-Freeware-green.svg)
 ![Status](https://img.shields.io/badge/status-Stable-success.svg)
 
-**LensForPBIP** is a professional documentation and analysis suite designed specifically for Microsoft Power BI Project (**PBIP**) files. It bridges the gap between raw metadata and actionable insights, allowing developers to audit data models, measures, and relationships with ease.
+**LensForPBIP** is a professional documentation and analysis suite designed specifically for Microsoft Power BI Project (PBIP) files. It transforms raw metadata into clear, navigable documentation—making it easy to audit data models, measures, relationships, and report structures.
+
+With an evolving feature set, LensForPBIP continues to grow to meet the needs of Power BI developers and teams.
 
 ---
 
