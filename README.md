@@ -1,8 +1,11 @@
-# LensForPBIP 🔍
+<div align="center">
+  <img src="docs/screenshots/banner.png" alt="LensForPBIP Banner" width="100%">
+  <br>
 
-[![GitHub Release](https://img.shields.io/github/v/release/artklas/LensForPBIP?style=flat-square&color=blue)](https://github.com/artklas/LensForPBIP/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square)](https://github.com/artklas/LensForPBIP/releases)
-[![License](https://img.shields.io/badge/license-Freeware-green?style=flat-square)](LICENSE.txt)
+  [![GitHub Release](https://img.shields.io/github/v/release/artklas/LensForPBIP?style=flat-square&color=blue)](https://github.com/artklas/LensForPBIP/releases)
+  [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square)](https://github.com/artklas/LensForPBIP/releases)
+  [![License](https://img.shields.io/badge/license-Freeware-green?style=flat-square)](LICENSE.txt)
+</div>
 
 **Document, analyze, visualize, and edit Power BI Projects—all in one tool.**
 
